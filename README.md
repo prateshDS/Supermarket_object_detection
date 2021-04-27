@@ -8,7 +8,7 @@
 
 Framework: TFOD 2 Object detection API
 
-Colab link to files or folder structure along with tensorflow models:
+Colab link to files or folders along with tensorflow models:
 Imp Folder names:
 
 Tensorflow : Object detection models (API)
