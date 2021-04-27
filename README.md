@@ -11,6 +11,6 @@ Framework: TFOD 2 Object detection API
 Colab link to files or folders along with tensorflow models:
 Imp Folder names:
 
-Tensorflow : Object detection models (API)
-workplace/supermarket_object_training : 
+1. Tensorflow : Object detection models (API)
+2. workplace/supermarket_object_training : 
 https://drive.google.com/drive/folders/1WYqSvPUd23v_KZ32hGngGFcYUD31r6OO?usp=sharing
