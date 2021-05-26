@@ -5,6 +5,7 @@
 3. Trained model on dataset(Packed objects which we see in malls)
 4. Performed fine tunning.
 5. The model took almost 3 hours to get trained.
+6. Check results in sample_results
 
 Framework: TFOD 2 Object detection API
 
